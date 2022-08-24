@@ -1,0 +1,19 @@
+{
+    "name": "smilenf/smilenf",
+    "description": "Test Flight",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smilenf\\Smilenf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fatur Falhikam",
+            "email": "afatur491@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
